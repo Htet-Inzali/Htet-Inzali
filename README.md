@@ -1,4 +1,5 @@
 Hi there 👋
+
 💫 About Me
 I am currently pursuing a Graduate Diploma in System Analysis at the National University of Singapore - Institute of Systems Science (NUS-ISS). Additionally, I am working as an intern at the Singapore Institute of Manufacturing Technology (SIMTech), where I am gaining valuable industry experience.
 I'm an ambitious software development professional with proven adaptability in dynamic work environments. Skilled in collaboration, creative problem-solving, and delivering high-quality results in fast-paced, innovative settings.
