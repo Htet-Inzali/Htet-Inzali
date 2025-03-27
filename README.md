@@ -1,7 +1,65 @@
-## Hi there 👋
+Hi there 👋
+💫 About Me
+I am currently pursuing a Graduate Diploma in System Analysis at the National University of Singapore - Institute of Systems Science (NUS-ISS). Additionally, I am working as an intern at the Singapore Institute of Manufacturing Technology (SIMTech), where I am gaining valuable industry experience.
+I'm an ambitious software development professional with proven adaptability in dynamic work environments. Skilled in collaboration, creative problem-solving, and delivering high-quality results in fast-paced, innovative settings.
+🎓 Education
 
-# 💫 About Me:
-I am currently studying for a Graduate Diploma in System Analysis at NUS-ISS.<br>I am currently working at Singapore Institute of Manufacturing Technology (SIMTech) as an intern.
+National University of Singapore (Aug 2024 - Present)
+Graduate Diploma in Systems Analysis
+
+Graduate Certificate in Digital Solutions Development – Web Applications
+Graduate Certificate in Digital Solutions Development – Design
+GPA: 3.13
+Currently Pursuing:
+
+Graduate Certificate in Digital Solutions Development - Machine Learning Applications
+Graduate Certificate in Digital Solutions Development - Mobile Applications
+Graduate Certificate in Digital Solutions Development - Agile Software Delivery
+
+
+
+
+Y-Max University (Dec 2021 - Oct 2022)
+Diploma in Network Engineering (NCFE/UK)
+West Yangon Technological University (Jan 2014 - Dec 2020)
+Bachelor of Engineering in IT
+
+Final Year GPA: 4.8
+Cumulative GPA: 4.17
+
+
+
+💼 Work Experience
+
+Application Support Analyst at Soft Star Technology Company (Jan 2022 - Dec 2024)
+
+Delivered comprehensive training programs for 300+ school staff members
+Implemented quality assurance processes for system updates
+Managed technical inquiries with 99.9% client satisfaction rate
+
+
+
+🚀 Projects
+
+Memory Card Flip Game (Jan 2025)
+
+Built comprehensive Android memory card game in Kotlin and .NET backend
+Developed SQL database architecture for user authentication and game states
+Engineered responsive game interface with 99.9% system uptime
+
+
+E-Commerce Website (Oct 2024)
+
+Built product details module within an 8-members e-commerce project
+Constructed responsive product detail pages with Spring MVC
+Developed dynamic review system using Spring JPA
+
+
+Handwritten Burmese Digits Recognition (Mar 2023)
+
+Implemented neural network architectures with 95.8% accuracy
+Developed training dataset with 3,000+ samples
+Created automated prediction system with real-time image processing
 
 
 ## 🌐 Socials:
