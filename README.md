@@ -4,6 +4,7 @@ I am currently pursuing a Graduate Diploma in System Analysis at the National Un
 ## 🎓 Education
 **National University of Singapore** (Aug 2024 - Present)  
 Graduate Diploma in Systems Analysis
+
 **Currently Pursuing:**
 - Graduate Certificate in Digital Solutions Development – Web Applications 
 - Graduate Certificate in Digital Solutions Development – Design
