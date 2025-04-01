@@ -4,14 +4,13 @@ I am currently pursuing a Graduate Diploma in System Analysis at the National Un
 ## 🎓 Education
 **National University of Singapore** (Aug 2024 - Present)  
 Graduate Diploma in Systems Analysis
-
-**Graduate Certificate in Digital Solutions Development – Web Applications**  
-**Graduate Certificate in Digital Solutions Development – Design**  
-GPA: 3.13  
 **Currently Pursuing:**
+- Graduate Certificate in Digital Solutions Development – Web Applications 
+- Graduate Certificate in Digital Solutions Development – Design
 - Graduate Certificate in Digital Solutions Development - Machine Learning Applications
 - Graduate Certificate in Digital Solutions Development - Mobile Applications
 - Graduate Certificate in Digital Solutions Development - Agile Software Delivery
+GPA: 3.13
 
 **Y-Max University** (Dec 2021 - Oct 2022)  
 Diploma in Network Engineering (NCFE/UK)
