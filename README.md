@@ -11,6 +11,7 @@ Graduate Diploma in Systems Analysis
 - Graduate Certificate in Digital Solutions Development - Machine Learning Applications
 - Graduate Certificate in Digital Solutions Development - Mobile Applications
 - Graduate Certificate in Digital Solutions Development - Agile Software Delivery
+  
 GPA: 3.13
 
 **Y-Max University** (Dec 2021 - Oct 2022)  
