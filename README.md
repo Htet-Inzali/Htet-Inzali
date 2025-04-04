@@ -23,7 +23,7 @@ Final Year GPA: 4.8
 Cumulative GPA: 4.17
 
 ## 💼 Work Experience
-**Intern at A*STAR Singapore Institute of Manufacturing Technology (SIMTech) (March 2025 - Present)
+**Intern** at A*STAR Singapore Institute of Manufacturing Technology (SIMTech) (March 2025 - Present)
 - Developing frontend for LCA Project using React.js and Next.js
 - Working on backend development with Python and FastAPI
 - Contributing to LCA Project maintenance and enhancement
