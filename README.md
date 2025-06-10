@@ -1,63 +1,166 @@
+# Hi there, I'm Htet Inzali! 👋
+
 ## 💫 About Me
-I am currently pursuing a Graduate Diploma in System Analysis at the National University of Singapore - Institute of Systems Science (NUS-ISS). Additionally, I am working as an intern at the Singapore Institute of Manufacturing Technology (SIMTech), where I am gaining valuable industry experience. I'm an ambitious software development professional with proven adaptability in dynamic work environments. Skilled in collaboration, creative problem-solving, and delivering high-quality results in fast-paced, innovative settings.
+I'm a passionate **Software Developer & Systems Analyst** currently pursuing a Graduate Diploma in Systems Analysis at the **National University of Singapore (NUS-ISS)**. I'm also working as a **Software Development Intern** at **SIMTech (A*STAR)**, where I'm developing cutting-edge Life Cycle Assessment platforms.
+
+🌟 **What drives me:**
+- Building scalable full-stack applications
+- Exploring AI/ML technologies
+- Creating impactful solutions for real-world problems
+- Continuous learning and professional growth
+
+## 🚀 Currently Working On
+- **LCA Platform Development** at SIMTech (A*STAR) using Next.js, FastAPI, and PostgreSQL
+- Graduate studies focusing on **Digital Solutions Development**
+- **Machine Learning** projects and **Mobile Applications**
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 🌟 Featured Projects
+
+### 🌱 [Life Cycle Assessment (LCA) Platform](https://github.com/Htet-Inzali/lca-platform)
+**Current Project at SIMTech (A*STAR)**
+- **Tech Stack:** Next.js, FastAPI, PostgreSQL, Tailwind CSS
+- **Description:** Comprehensive full-stack platform for environmental impact assessment
+- **Key Features:**
+  - Responsive UI with Datasource and Datapoint management modules
+  - Complex LCA calculation algorithms with real-time data processing
+  - PostgreSQL database optimization for multiple data models
+  - GitHub workflow integration with feature branching and code reviews
+
+### 🎣 [Bait Mate - Fishing Assistant Application](https://github.com/Htet-Inzali/bait-mate)
+**NUS Final Group Project**
+- **Tech Stack:** Java/Kotlin (Mobile), Java Spring + Thymeleaf (Web), PostgreSQL
+- **Description:** Dual-platform fishing assistance app integrating Singapore's live location and weather data
+- **Highlights:**
+  - Mobile application with social features (posts, likes, comments)
+  - Web admin panel with interactive dashboard and data visualization
+  - PDF/CSV report generation functionality
+  - Complete authentication and profile management system
+
+### 🍎 [Fruit Classification System](https://github.com/Htet-Inzali/fruit-classifier)
+**NUS Group Project - AI/ML**
+- **Tech Stack:** Python, TensorFlow, CNN
+- **Description:** CNN-based image classification system for fruits
+- **Achievement:** **98%+ accuracy** in classifying 4 fruit categories
+- **Features:**
+  - Optimized neural network architecture
+  - Comprehensive dataset preparation and training
+  - Real-time image processing capabilities
+
+### 🃏 [Mobile Flip Card Game](https://github.com/Htet-Inzali/flip-card-game)
+**NUS Group Project**
+- **Tech Stack:** Kotlin (Frontend), C# (Backend), MVC Architecture
+- **Description:** Android memory card game with ranking system
+- **Features:**
+  - Real-time score tracking and leaderboard
+  - Comprehensive data management
+  - Smooth gaming experience with intuitive UI
+
+### 📱 [E-Commerce Platform](https://github.com/Htet-Inzali/ecommerce-platform)
+**NUS Group Project**
+- **Tech Stack:** Java, Spring MVC, Spring JPA
+- **Description:** Full-featured e-commerce website with product management
+- **Contributions:**
+  - Responsive product detail pages with image gallery
+  - Integrated review and rating system
+  - Add-to-cart functionality with session management
+
+### 🔤 [Handwritten Burmese Digits Recognition](https://github.com/Htet-Inzali/burmese-digits-recognition)
+**Final Year Thesis Project**
+- **Tech Stack:** Python, TensorFlow, CNN, Neural Networks
+- **Description:** AI system for recognizing handwritten Burmese digits
+- **Achievements:**
+  - **95.8% accuracy** on test dataset
+  - **93% inference accuracy** with 200ms processing time
+  - Custom dataset with 3,000+ handwritten samples
+  - 50-page comprehensive research documentation
 
 ## 🎓 Education
-**National University of Singapore** (Aug 2024 - Present)  
-Graduate Diploma in Systems Analysis
 
-**Currently Pursuing:**
-- Graduate Certificate in Digital Solutions Development – Web Applications 
-- Graduate Certificate in Digital Solutions Development – Design
-- Graduate Certificate in Digital Solutions Development - Machine Learning Applications
-- Graduate Certificate in Digital Solutions Development - Mobile Applications
-- Graduate Certificate in Digital Solutions Development - Agile Software Delivery
-  
-GPA: 3.13
+**🏛️ National University of Singapore (NUS-ISS)** | *Aug 2024 - Present*  
+Graduate Diploma in Systems Analysis | **GPA: 3.13**
+- Digital Solutions Development (Web, Mobile, AI/ML, Design, Agile)
 
-**Y-Max University** (Dec 2021 - Oct 2022)  
-Diploma in Network Engineering (NCFE/UK)
+**🏛️ West Yangon Technological University** | *Dec 2013 - April 2023*  
+Bachelor of Engineering in Information Technology  
+**Final Year GPA: 4.8** | **Cumulative GPA: 4.17**
 
-**West Yangon Technological University** (Jan 2014 - Dec 2020)  
-Bachelor of Engineering in IT  
-Final Year GPA: 4.8  
-Cumulative GPA: 4.17
+## 💼 Professional Experience
 
-## 💼 Work Experience
-**Intern** at A*STAR Singapore Institute of Manufacturing Technology (SIMTech) (March 2025 - Present)
-- Developing frontend for LCA Project using React.js and Next.js
-- Working on backend development with Python and FastAPI
-- Contributing to LCA Project maintenance and enhancement
+**🔬 Software Development Intern** | *SIMTech (A*STAR)* | *Mar 2025 - Present*
+- Developing full-stack LCA platform using modern web technologies
+- Collaborating with design teams for responsive UI implementation
+- Optimizing PostgreSQL database architecture for complex data models
 
-**Application Support Analyst** at Soft Star Technology Company (Jan 2022 - Dec 2024)
-- Delivered comprehensive training programs for 300+ school staff members
-- Implemented quality assurance processes for system updates
-- Managed technical inquiries with 99.9% client satisfaction rate
+**💻 Application Support Analyst** | *Softstar Technology Company* | *Jan 2022 - Jul 2024*
+- Maintained Java-based School Management System
+- Delivered training programs to 300+ users across educational institutions
+- Achieved 95% issue resolution rate with comprehensive testing processes
 
-## 🚀 Projects
-**Memory Card Flip Game** (Jan 2025)
-- Built comprehensive Android memory card game in Kotlin and .NET backend
-- Developed SQL database architecture for user authentication and game states
-- Engineered responsive game interface with 99.9% system uptime
+## 📈 GitHub Stats
 
-**E-Commerce Website** (Oct 2024)
-- Built product details module within an 8-member e-commerce project
-- Constructed responsive product detail pages with Spring MVC
-- Developed dynamic review system using Spring JPA
+![Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Htet-Inzali&show_icons=true&theme=radical)
 
-**Handwritten Burmese Digits Recognition** (Mar 2023)
-- Implemented neural network architectures with 95.8% accuracy
-- Developed training dataset with 3,000+ samples
-- Created automated prediction system with real-time image processing
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Inzali&layout=compact&theme=radical)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/htetinzali1410) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/htet-inzali-7b70b7214) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:htetinzali10@gmail.com) 
+## 🏆 Certifications & Achievements
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Htet-Inzali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Htet-Inzali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Inzali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Artificial Intelligence Certification**
+- **Core Java Course** (Fundamentals, OOP, Essential APIs)
+- **Python for Data Science, AI & Development**
+- **HTML, CSS, JavaScript for Web Developers**
+- **Wall Street English Level 13 & 14**
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/htet-inzali-7b70b7214)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:htetinzali10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Htet-Inzali)
+
+## 💡 Fun Facts
+
+- 🌏 Based in Singapore
+- 🗣️ Fluent in Burmese (Native) and English (Professional)
+- 🎯 Passionate about AI/ML and sustainable technology solutions
+- 📚 Always learning new technologies and frameworks
+- 🤝 Open to collaboration on interesting projects
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Htet-Inzali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
