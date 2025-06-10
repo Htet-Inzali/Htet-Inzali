@@ -12,7 +12,7 @@ I'm a passionate **Software Developer & Systems Analyst** currently pursuing a G
 ## 🚀 Currently Working On
 - **LCA Platform Development** at SIMTech (A*STAR) using Next.js, FastAPI, and PostgreSQL
 - Graduate studies focusing on **Digital Solutions Development**
-- **Machine Learning** projects and **Mobile Applications**
+- **Full-stack Development** with modern web technologies
 
 ## 🛠️ Tech Stack
 
