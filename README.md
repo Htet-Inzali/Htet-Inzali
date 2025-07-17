@@ -112,7 +112,7 @@ Bachelor of Engineering in Information Technology
 
 ## 💼 Professional Experience
 
-**🔬 Software Development Intern** | *SIMTech (A*STAR)* | *Mar 2025 - Present*
+**🔬 Software Development Intern** | *SIMTech (A*STAR)* | *Mar 2025 - Jul 2025*
 - Developing full-stack LCA platform using modern web technologies
 - Collaborating with design teams for responsive UI implementation
 - Optimizing PostgreSQL database architecture for complex data models
@@ -135,6 +135,8 @@ Bachelor of Engineering in Information Technology
 - **Python for Data Science, AI & Development**
 - **HTML, CSS, JavaScript for Web Developers**
 - **Wall Street English Level 13 & 14**
+
+*View complete certifications and achievements on my [LinkedIn profile](https://linkedin.com/in/htet-inzali-7b70b7214)*
 
 ## 🌐 Connect with Me
 
