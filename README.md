@@ -1,18 +1,12 @@
 # Hi there, I'm Htet Inzali! 👋
 
 ## 💫 About Me
-I'm a passionate **Software Developer & Systems Analyst** currently pursuing a Graduate Diploma in Systems Analysis at the **National University of Singapore (NUS-ISS)**. I'm also working as a **Software Development Intern** at **SIMTech (A*STAR)**, where I'm developing cutting-edge Life Cycle Assessment platforms.
+I'm a passionate Software Developer & Systems Analyst who completed my Graduate Diploma in Systems Analysis at the National University of Singapore (NUS-ISS). I recently finished my Software Development Internship at SIMTech (A*STAR), where I developed comprehensive Life Cycle Assessment platforms.
 
-🌟 **What drives me:**
-- Building scalable full-stack applications
-- Exploring AI/ML technologies
-- Creating impactful solutions for real-world problems
-- Continuous learning and professional growth
-
-## 🚀 Currently Working On
-- **LCA Platform Development** at SIMTech (A*STAR) using Next.js, FastAPI, and PostgreSQL
-- Graduate studies focusing on **Digital Solutions Development**
-- **Full-stack Development** with modern web technologies
+## 💼 Professional Experience
+- **Software Development Intern** @ SIMTech (A*STAR) - Developed full-stack LCA platform
+- **Application Support Analyst** @ Softstar Technology - Java-based systems development  
+- Currently pursuing **Graduate Diploma in Systems Analysis** @ NUS
 
 ## 🛠️ Tech Stack
 
