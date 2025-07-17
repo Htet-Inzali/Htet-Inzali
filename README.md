@@ -163,6 +163,8 @@ Bachelor of Engineering in Information Technology
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🐍 GitHub Activity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Htet-Inzali/Htet-Inzali/output/github-snake-dark.svg" />
 <!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Htet-Inzali/Htet-Inzali/output/github-snake.svg" /> -->
