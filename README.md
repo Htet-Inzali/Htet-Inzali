@@ -106,7 +106,7 @@ I'm a passionate Software Developer & Systems Analyst who completed my Graduate 
 Graduate Diploma in Systems Analysis | **GPA: 3.13**
 - Digital Solutions Development (Web, Mobile, AI/ML, Design, Agile)
 
-**🏛️ West Yangon Technological University** | *Dec 2013 - April 2023*  
+**🏛️ West Yangon Technological University** | *Dec 2013 - April 2020*  
 Bachelor of Engineering in Information Technology  
 **Final Year GPA: 4.8** | **Cumulative GPA: 4.17**
 
