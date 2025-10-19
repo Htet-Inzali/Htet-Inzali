@@ -6,7 +6,7 @@ I'm a passionate Software Developer & Systems Analyst who completed my Graduate 
 ## 💼 Professional Experience
 - **Software Development Intern** @ SIMTech (A*STAR) - Developed full-stack LCA platform
 - **Application Support Analyst** @ Softstar Technology - Java-based systems development  
-- Currently pursuing **Graduate Diploma in Systems Analysis** @ NUS
+- Completely pursuing **Graduate Diploma in Systems Analysis** @ NUS
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ I'm a passionate Software Developer & Systems Analyst who completed my Graduate 
 ## 🌟 Featured Projects
 
 ### 🌱 [Life Cycle Assessment (LCA) Platform](https://github.com/Htet-Inzali/lca-platform)
-**Current Project at SIMTech (A*STAR)**
+**Project at SIMTech (A*STAR)**
 - **Tech Stack:** Next.js, FastAPI, PostgreSQL, Tailwind CSS
 - **Description:** Comprehensive full-stack platform for environmental impact assessment
 - **Key Features:**
@@ -102,7 +102,7 @@ I'm a passionate Software Developer & Systems Analyst who completed my Graduate 
 
 ## 🎓 Education
 
-**🏛️ National University of Singapore (NUS-ISS)** | *Aug 2024 - Present*  
+**🏛️ National University of Singapore (NUS-ISS)** | *Aug 2024 - Sep 2025*  
 Graduate Diploma in Systems Analysis | **GPA: 3.13**
 - Digital Solutions Development (Web, Mobile, AI/ML, Design, Agile)
 
