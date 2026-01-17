@@ -1,5 +1,5 @@
 # Hi there, I'm Htet Inzali 👋  
-**Software Developer (Java / Backend) | Systems Analyst**
+**Software Developer | Systems Analyst**
 
 📍 Singapore / Vietnam | 🌏 Open to relocation  
 🎓 Graduate Diploma in Systems Analysis – NUS  
