@@ -56,7 +56,7 @@ React • Next.js • JSP • HTML • CSS • Tailwind CSS
 PostgreSQL • MySQL  
 
 **Tools & Platforms**  
-Git • GitHub • Linux • IntelliJ IDEA • VS Code  
+Git • GitHub • Eclipse • IntelliJ IDEA • DataGrip • VS Code  
 
 ---
 
