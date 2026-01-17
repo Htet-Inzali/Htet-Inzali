@@ -88,12 +88,6 @@ Bachelor of Engineering (IT) | GPA: 4.17
 
 ---
 
-## 📊 GitHub Stats
-![Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Htet-Inzali&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Htet-Inzali&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/htet-inzali-7b70b7214  
 - Email: htetinzali10@gmail.com  
