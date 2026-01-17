@@ -3,7 +3,7 @@
 
 📍 Singapore / Vietnam | 🌏 Open to relocation  
 🎓 Graduate Diploma in Systems Analysis – NUS  
-💼 Java • SQL • Linux • Production Support • Backend Development  
+💼 Java • SQL • Production Support • Fullstack Development  
 
 ---
 
