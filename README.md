@@ -92,6 +92,7 @@ Bachelor of Engineering (IT) | GPA: 4.17
 - LinkedIn: https://linkedin.com/in/htet-inzali-7b70b7214  
 - Email: htetinzali10@gmail.com  
 - GitHub: https://github.com/Htet-Inzali  
+- Portfolio: https://htet-inzali.github.io
 
 ⭐ Actively seeking opportunities in **Backend, Java, Production Support, and Graduate Engineer roles**.
 
